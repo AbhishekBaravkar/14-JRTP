@@ -1,0 +1,7 @@
+Public class demo{
+
+	public method{
+		/logic
+	}
+
+}
