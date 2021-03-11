@@ -1,0 +1,3 @@
+public demotest{
+	public demotest(){ //test logic}
+}
